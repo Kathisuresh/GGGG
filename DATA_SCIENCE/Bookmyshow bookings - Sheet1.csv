@@ -1,0 +1,101 @@
+booking_id,user_id,event_type,city,platform,event_date,ticket_count,ticket_price,total_ticket-price,payment_mode
+BKS1000,USR754,Movie,Mumbai,Website,09-06-2025,2,283.93,567.86,Credit Card
+BKS1001,USR792,Workshop,Mumbai,Website,07-08-2025,1,167.88,167.88,Debit Card
+BKS1002,USR338,Workshop,Chennai,Mobile App,18-08-2025,5,269.3,1346.5,Wallet
+BKS1003,USR529,Concert,Hyderabad,Website,16-07-2025,1,605.28,605.28,Debit Card
+BKS1004,USR814,Standup,Bangalore,Website,19-07-2025,2,279.19,558.38,UPI
+BKS1005,USR204,Movie,Hyderabad,Mobile App,15-07-2025,3,658.5,1975.5,Wallet
+BKS1006,USR370,Movie,Pune,Website,07-07-2025,5,224.9,1124.5,Net Banking
+BKS1007,USR180,Workshop,Bangalore,Website,09-07-2025,5,265.37,1326.85,Credit Card
+BKS1008,USR146,Concert,Ahmedabad,Website,12-06-2025,1,663.19,663.19,Credit Card
+BKS1009,USR489,Play,Hyderabad,Website,10-06-2025,2,372.11,744.22,Debit Card
+BKS1010,USR786,Play,Pune,Mobile App,11-06-2025,5,530.99,2654.95,Wallet
+BKS1011,USR846,Concert,Delhi,Website,08-08-2025,4,311.97,1247.88,Wallet
+BKS1012,USR324,Play,Ahmedabad,Mobile App,22-06-2025,2,643.08,1286.16,UPI
+BKS1013,USR510,Play,Mumbai,Mobile App,07-07-2025,5,675.82,3379.1,UPI
+BKS1014,USR317,Standup,Hyderabad,Website,23-08-2025,2,308.93,617.86,Debit Card
+BKS1015,USR862,Workshop,Chennai,Website,24-06-2025,6,500.75,3004.5,Wallet
+BKS1016,USR508,Play,Delhi,Mobile App,04-06-2025,5,446.11,2230.55,Credit Card
+BKS1017,USR981,Movie,Delhi,Mobile App,05-07-2025,6,403.3,2419.8,Credit Card
+BKS1018,USR494,Standup,Chennai,Website,24-07-2025,5,300.85,1504.25,Wallet
+BKS1019,USR981,Movie,Pune,Mobile App,14-07-2025,6,680.87,4085.22,UPI
+BKS1020,USR887,Play,Mumbai,Website,06-08-2025,4,244.89,979.56,Credit Card
+BKS1021,USR839,Play,Chennai,Mobile App,14-06-2025,5,697.58,3487.9,UPI
+BKS1022,USR961,Workshop,Chennai,Mobile App,20-08-2025,2,374.35,748.7,Debit Card
+BKS1023,USR652,Workshop,Mumbai,Website,29-07-2025,4,161.69,646.76,UPI
+BKS1024,USR999,Play,Delhi,Mobile App,02-08-2025,2,676.81,1353.62,Credit Card
+BKS1025,USR187,Standup,Ahmedabad,Mobile App,03-08-2025,5,609.5,3047.5,Debit Card
+BKS1026,USR775,Standup,Chennai,Mobile App,11-07-2025,3,466.6,1399.8,Wallet
+BKS1027,USR533,Concert,Chennai,Mobile App,20-07-2025,6,337.03,2022.18,UPI
+BKS1028,USR548,Workshop,Hyderabad,Mobile App,08-06-2025,2,284.82,569.64,UPI
+BKS1029,USR121,Workshop,Chennai,Mobile App,18-07-2025,5,282.13,1410.65,Credit Card
+BKS1030,USR824,Movie,Delhi,Mobile App,24-06-2025,1,665.78,665.78,Credit Card
+BKS1031,USR626,Concert,Bangalore,Website,29-08-2025,2,473.54,947.08,Wallet
+BKS1032,USR690,Standup,Delhi,Website,20-07-2025,4,264.25,1057,Credit Card
+BKS1033,USR774,Standup,Bangalore,Website,27-08-2025,4,430.21,1720.84,Credit Card
+BKS1034,USR789,Movie,Mumbai,Website,05-06-2025,6,353.58,2121.48,Credit Card
+BKS1035,USR354,Concert,Delhi,Website,15-07-2025,2,403.13,806.26,UPI
+BKS1036,USR573,Concert,Ahmedabad,Mobile App,23-07-2025,4,634.81,2539.24,Wallet
+BKS1037,USR200,Movie,Pune,Mobile App,11-06-2025,1,705.82,705.82,Debit Card
+BKS1038,USR270,Standup,Hyderabad,Website,12-07-2025,2,668.79,1337.58,Credit Card
+BKS1039,USR268,Standup,Mumbai,Website,25-08-2025,3,705.91,2117.73,Net Banking
+BKS1040,USR392,Standup,Pune,Website,11-08-2025,2,263.94,527.88,Debit Card
+BKS1041,USR159,Workshop,Pune,Mobile App,17-08-2025,6,338.16,2028.96,Credit Card
+BKS1042,USR698,Standup,Chennai,Mobile App,19-06-2025,1,726.47,726.47,Credit Card
+BKS1043,USR971,Concert,Mumbai,Mobile App,20-08-2025,6,667.09,4002.54,Net Banking
+BKS1044,USR222,Workshop,Delhi,Mobile App,14-07-2025,5,199.19,995.95,Wallet
+BKS1045,USR678,Workshop,Bangalore,Website,18-08-2025,2,551.84,1103.68,UPI
+BKS1046,USR344,Play,Hyderabad,Mobile App,25-07-2025,6,537.3,3223.8,Net Banking
+BKS1047,USR423,Movie,Mumbai,Website,02-07-2025,5,749.07,3745.35,Credit Card
+BKS1048,USR175,Workshop,Delhi,Website,18-07-2025,2,709.96,1419.92,Credit Card
+BKS1049,USR350,Play,Bangalore,Mobile App,16-07-2025,4,650.25,2601,UPI
+BKS1050,USR726,Workshop,Mumbai,Website,15-07-2025,6,212.15,1272.9,Debit Card
+BKS1051,USR370,Movie,Mumbai,Mobile App,04-07-2025,3,319.05,957.15,Debit Card
+BKS1052,USR834,Play,Delhi,Website,10-07-2025,5,443.12,2215.6,Credit Card
+BKS1053,USR194,Standup,Ahmedabad,Website,26-07-2025,1,152.13,152.13,Debit Card
+BKS1054,USR752,Play,Delhi,Website,30-06-2025,5,573.4,2867,Wallet
+BKS1055,USR109,Movie,Mumbai,Mobile App,28-06-2025,5,171.62,858.1,UPI
+BKS1056,USR696,Workshop,Delhi,Website,15-07-2025,2,175.1,350.2,UPI
+BKS1057,USR915,Movie,Bangalore,Mobile App,06-08-2025,6,299.72,1798.32,Credit Card
+BKS1058,USR462,Workshop,Ahmedabad,Website,26-06-2025,5,599.69,2998.45,Debit Card
+BKS1059,USR985,Concert,Ahmedabad,Mobile App,30-07-2025,4,164.87,659.48,UPI
+BKS1060,USR901,Standup,Ahmedabad,Mobile App,17-08-2025,3,245.52,736.56,Credit Card
+BKS1061,USR491,Movie,Ahmedabad,Website,15-08-2025,2,269.74,539.48,Net Banking
+BKS1062,USR458,Play,Ahmedabad,Mobile App,04-08-2025,2,164.2,328.4,Debit Card
+BKS1063,USR508,Play,Bangalore,Mobile App,22-07-2025,3,360.69,1082.07,Wallet
+BKS1064,USR509,Workshop,Bangalore,Mobile App,26-07-2025,1,676.22,676.22,UPI
+BKS1065,USR282,Workshop,Bangalore,Mobile App,29-08-2025,1,507.94,507.94,UPI
+BKS1066,USR846,Play,Hyderabad,Mobile App,10-07-2025,4,689.7,2758.8,Debit Card
+BKS1067,USR360,Movie,Pune,Website,17-06-2025,1,461.95,461.95,Wallet
+BKS1068,USR803,Concert,Bangalore,Website,08-07-2025,1,719.32,719.32,UPI
+BKS1069,USR738,Play,Pune,Mobile App,19-08-2025,6,690.03,4140.18,Wallet
+BKS1070,USR416,Standup,Bangalore,Website,24-07-2025,6,327.39,1964.34,Debit Card
+BKS1071,USR296,Standup,Pune,Website,17-07-2025,6,598.88,3593.28,Debit Card
+BKS1072,USR730,Workshop,Bangalore,Website,01-08-2025,5,650.24,3251.2,UPI
+BKS1073,USR393,Concert,Hyderabad,Website,30-08-2025,4,415.07,1660.28,Debit Card
+BKS1074,USR623,Standup,Ahmedabad,Mobile App,26-08-2025,6,200.88,1205.28,Wallet
+BKS1075,USR779,Workshop,Bangalore,Mobile App,27-07-2025,2,553.68,1107.36,Debit Card
+BKS1076,USR925,Concert,Delhi,Mobile App,30-06-2025,1,296.91,296.91,Net Banking
+BKS1077,USR725,Movie,Hyderabad,Website,24-07-2025,6,495.4,2972.4,Net Banking
+BKS1078,USR606,Standup,Delhi,Mobile App,16-06-2025,6,562.57,3375.42,Credit Card
+BKS1079,USR897,Standup,Delhi,Mobile App,16-07-2025,6,460.77,2764.62,Credit Card
+BKS1080,USR670,Concert,Ahmedabad,Mobile App,29-08-2025,4,230,920,Net Banking
+BKS1081,USR783,Workshop,Chennai,Website,19-07-2025,4,517.59,2070.36,Wallet
+BKS1082,USR536,Workshop,Hyderabad,Mobile App,10-06-2025,6,666.9,4001.4,Net Banking
+BKS1083,USR365,Concert,Ahmedabad,Website,16-08-2025,5,440.76,2203.8,Debit Card
+BKS1084,USR381,Standup,Mumbai,Website,26-06-2025,2,313.03,626.06,UPI
+BKS1085,USR653,Movie,Delhi,Mobile App,14-08-2025,2,379.82,759.64,Debit Card
+BKS1086,USR823,Concert,Mumbai,Website,04-07-2025,4,348.53,1394.12,Net Banking
+BKS1087,USR525,Movie,Delhi,Website,22-07-2025,4,692.9,2771.6,Wallet
+BKS1088,USR812,Movie,Ahmedabad,Website,19-06-2025,4,153.54,614.16,UPI
+BKS1089,USR405,Standup,Ahmedabad,Website,28-07-2025,5,598.51,2992.55,Wallet
+BKS1090,USR919,Workshop,Delhi,Website,18-06-2025,2,313.76,627.52,Net Banking
+BKS1091,USR129,Standup,Bangalore,Website,30-06-2025,6,249.03,1494.18,Net Banking
+BKS1092,USR230,Workshop,Chennai,Mobile App,08-07-2025,4,505.14,2020.56,Credit Card
+BKS1093,USR185,Standup,Delhi,Website,29-08-2025,2,180.17,360.34,Net Banking
+BKS1094,USR435,Concert,Hyderabad,Website,11-06-2025,3,606.74,1820.22,Net Banking
+BKS1095,USR384,Standup,Bangalore,Mobile App,31-08-2025,4,161.63,646.52,Wallet
+BKS1096,USR153,Play,Delhi,Mobile App,30-08-2025,6,174.15,1044.9,Credit Card
+BKS1097,USR353,Concert,Ahmedabad,Mobile App,13-07-2025,5,241.43,1207.15,Debit Card
+BKS1098,USR584,Movie,Chennai,Mobile App,16-07-2025,4,569.68,2278.72,UPI
+BKS1099,USR271,Workshop,Chennai,Mobile App,29-08-2025,2,728.83,1457.66,Credit Card
